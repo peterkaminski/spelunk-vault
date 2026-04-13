@@ -1,0 +1,17 @@
+# Obsidian
+.obsidian/
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Personal notes (if using #access/private tag)
+**/Private-Notes/
+
+# Backup files
+*.bak
+*~
+
+# Temporary files
+*.tmp
